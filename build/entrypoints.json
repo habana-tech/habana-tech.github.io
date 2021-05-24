@@ -13,6 +13,6 @@
   "integrity": {
     "/build/runtime.js": "sha384-Xv77u+L7JIMaw7HbBaLEgHAKmC0m+f3eS2vNYs08QDmTxuszjSilSa9fkPUEIjZf",
     "/build/app.js": "sha384-wehGrTHCZrBHmJ28yexYVtr2pYx3sWM0w/faY1AOW+QM/N/xPrb2SoH7KKcYSmXe",
-    "/build/app.css": "sha384-eqpBX65E+tngKbCHeyObkxvs1EV8crKtB8+ch8UAc4VpXlkNqByP7F7cR9WXvEev"
+    "/build/app.css": "sha384-gva9MOLOW6ZNdupPo0VeQq5gQLNO8dUETzmH3akzKtGTCnazmwawvInwEN2T/LFQ"
   }
 }
