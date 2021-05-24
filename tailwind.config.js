@@ -1,11 +1,12 @@
 module.exports = {
     purge: {
-        enabled: false,
+        enabled: true,
         content: ['./src/**/*.html',
                 './src/**/*.vue',
                 './src/**/*.jsx',
                 './**/*.html',
-                './**/*.twig']
+                './**/*.twig',
+                './*.html']
     },
     darkMode: 'class', // or 'media' or 'class'
     theme: {
